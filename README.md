@@ -47,6 +47,7 @@ Product_Code,Product_Name,Price,Quantity
 @05,Coco-Cola,25.0,28
 ```
 - This file serves as the inventory data, which gets updated dynamically as products are purchased.
+- You can customize the dataset according to your requirements of product or you can update the inventory products 
 
 ## Sample output: 
 ```
