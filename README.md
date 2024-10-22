@@ -95,8 +95,8 @@ Have a Nice Day
 ## Technologies Used
 - **Python**: Core logic for the billing system.
 - **PrettyTable**: For displaying the itemized bill in a tabular format.
-- **csv**: create a dataset to automate enter the product name
-- 
+- **CSV**: create a dataset to automate entering the product name
+  
 ## Future Enhancements:
 
 1. Add a graphical user interface (GUI) to improve user experience.
