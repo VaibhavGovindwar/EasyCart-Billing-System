@@ -1,7 +1,7 @@
 # EasyCart-Billing-System
 
 ## Project Overview:
-The EasyCart Grocery Store application is a console-based tool designed to simulate a shopping experience.  Users can purchase items by entering product codes '@01, @02,----', specify the desired quantity, and receive an automatically generated bill. The application manages inventory in real time by updating a CSV file, ensuring the store’s stock is always up-to-date. It also generates detailed bills that include discounts, itemized purchases, and total quantities.
+The EasyCart Grocery Store application is a console-based tool designed to simulate a shopping experience.  You can enter items by entering product codes '@01, @02,----', specify the desired quantity, and receive an automatically generated bill. The application manages inventory in real time by updating a CSV file, ensuring the store’s stock is always up-to-date. It also generates detailed bills that include discounts, itemized purchases, and total quantities.
 
 ## Features:
 
